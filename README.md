@@ -77,7 +77,7 @@
 			<p class="precio">$100.00</p>
 		</div>
 		<div class="producto">
-			<img src="https://via.placeholder.com/300x300.png?text=Producto2">
+			<img src="15.jpg?text=Producto2">
 			<h3>Producto 2</h3>
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo euismod sapien, vel aliquet massa faucibus eget.</p>
 			<p class="precio">$200.00</p>
