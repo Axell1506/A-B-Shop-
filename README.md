@@ -76,6 +76,19 @@
 			<p class="precio">$200.00</p>
 			<button onclick="window.location.href='https://wa.me/5620791336?text=¡Hola!%20Quiero%20comprar%20el%20Producto%202'" >Comprar</button>
 		</div>
+		
+
+	
+
+			<h3>Producto 2</h3>
+
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo euismod sapien, vel aliquet massa faucibus eget.</p>
+
+			<p class="precio">$200.00</p>
+
+			<button onclick="window.location.href='https://wa.me/5620791336?text=¡Hola!%20Quiero%20comprar%20el%20Producto%202'" >Comprar</button>
+
+		</div>
 		<!-- Agregar más productos de precio alto aquí -->
 	</div>
 	<h2>Ropa con descuento</h2>
